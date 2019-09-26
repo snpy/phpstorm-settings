@@ -1,0 +1,83 @@
+<application>
+  <component name="libraryTable">
+    <library name="adsbygoogle" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_pagead2.googlesyndication.com_pagead_js_adsbygoogle.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_pagead2.googlesyndication.com_pagead_js_adsbygoogle.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="bootstrap" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.1.1_js_bootstrap.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.8.2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebIde80/extLibs/__ajax.googleapis.com_ajax_libs_jquery_1.8.2_jquery.js" />
+        <root url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.8.3_jquery.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery-1.11.0" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.0." />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_code.jquery.com_jquery-1.11.0.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery-ui" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.9.2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_ajax.googleapis.com_ajax_libs_jqueryui_1.9.2_jquery-ui.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jqueryui_1.8.13_jquery-ui.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_ui_1.9.2_jquery-ui.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="modernizr" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Modernizr" />
+        <option name="frameworkVersion" value="2.8.3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_cdnjs.cloudflare.com_ajax_libs_modernizr_2.6.2_modernizr.js" />
+        <root url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_cdnjs.cloudflare.com_ajax_libs_modernizr_2.8.3_modernizr.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://www.modernizr.com/docs" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="Puppet modules">
+      <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/puppet/lib/stubs" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
