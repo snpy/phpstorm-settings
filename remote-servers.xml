@@ -1,0 +1,11 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="OBV GG" type="docker">
+      <configuration>
+        <option name="apiUrl" value="https://192.168.99.100:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/gg" />
+        <option name="machine" value="gg" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
