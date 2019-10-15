@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts*" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -33,10 +33,10 @@
     <mask>*.tsx</mask>
     <mask>*.md</mask>
     <mask>*.yml</mask>
-    <mask>*.php</mask>
     <mask>*.tsx, *.ts</mask>
     <mask>*.less</mask>
     <mask>*Repository.php</mask>
     <mask>*.ts*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
