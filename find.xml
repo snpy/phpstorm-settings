@@ -3,8 +3,11 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -31,9 +34,9 @@
     <mask>*.tsx, *.ts</mask>
     <mask>*.less</mask>
     <mask>*Repository.php</mask>
-    <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*.ts*</mask>
     <mask>*.php</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
