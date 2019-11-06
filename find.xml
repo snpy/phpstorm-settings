@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -21,7 +20,6 @@
     <mask>*.xml</mask>
     <mask>*en_IN*</mask>
     <mask>*Datatable.php</mask>
-    <mask>*.ts</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>*.en_US.xlf</mask>
     <mask>*.en_US.*</mask>
@@ -35,5 +33,6 @@
     <mask>*.ts*</mask>
     <mask>*.php</mask>
     <mask>*.twig</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
