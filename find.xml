@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -21,7 +22,6 @@
     <mask>*.ts, *.tsx</mask>
     <mask>*.en_US.xlf</mask>
     <mask>*.en_US.*</mask>
-    <mask>*.tsx</mask>
     <mask>*.md</mask>
     <mask>*.yml</mask>
     <mask>*.tsx, *.ts</mask>
@@ -33,5 +33,6 @@
     <mask>*.twig</mask>
     <mask>*.ts</mask>
     <mask>*.ts,*.js,*.twig</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
