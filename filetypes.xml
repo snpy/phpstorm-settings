@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.twig" type="JavaScript" />
       <mapping ext="ttf" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
@@ -12,18 +10,18 @@
       <mapping pattern=".profile2" type="PLAIN_TEXT" />
       <mapping pattern=".profile1" type="PLAIN_TEXT" />
       <mapping pattern="t2" type="PLAIN_TEXT" />
-      <mapping pattern="clear-cache" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="crawler-api-upgrades" type="PLAIN_TEXT" />
       <mapping pattern="t1" type="PLAIN_TEXT" />
+      <mapping pattern="clear-cache" type="PLAIN_TEXT" />
+      <mapping pattern="crawler-api-upgrades" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="f1" type="PLAIN_TEXT" />
       <mapping pattern="gen-db-doc" type="PLAIN_TEXT" />
+      <mapping ext="message" type="PLAIN_TEXT" />
       <mapping ext="webmanifest" type="PLAIN_TEXT" />
+      <mapping ext="sync-conflict-20191011-071629-mfosw5j" type="PLAIN_TEXT" />
       <mapping ext="yml~" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
-      <mapping ext="sync-conflict-20191011-071629-mfosw5j" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping ext="message" type="PLAIN_TEXT" />
       <mapping pattern="inlineDelete" type="Twig" />
       <mapping pattern="isMovable" type="TypeScript" />
       <mapping pattern="*.yml.dist" type="YAML" />
