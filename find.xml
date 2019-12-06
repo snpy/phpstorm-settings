@@ -9,6 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.mxml</mask>
     <mask>*.po</mask>
     <mask>*.*s*</mask>
@@ -28,7 +29,6 @@
     <mask>*.md</mask>
     <mask>*.yml</mask>
     <mask>*.tsx, *.ts</mask>
-    <mask>*.less</mask>
     <mask>*Repository.php</mask>
     <mask>*.js</mask>
     <mask>*.ts*</mask>
@@ -39,5 +39,6 @@
     <mask>*.tsx</mask>
     <mask>*.tsx,*.ts</mask>
     <mask>*.tsx,*.ts,*.js</mask>
+    <mask>*.less</mask>
   </component>
 </application>
