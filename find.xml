@@ -9,8 +9,6 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Controller.php" />
-    <mask>*.mxml</mask>
     <mask>*.po</mask>
     <mask>*.*s*</mask>
     <mask>*Pass.php</mask>
@@ -40,5 +38,6 @@
     <mask>*.less</mask>
     <mask>*.twig</mask>
     <mask>*Controller.php</mask>
+    <mask>: 2</mask>
   </component>
 </application>
