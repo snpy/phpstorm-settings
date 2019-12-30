@@ -35,7 +35,7 @@
     <mask>*.twig</mask>
     <mask>*Controller.php</mask>
     <mask>: 2</mask>
-    <mask>*.spec.js</mask>
     <mask>*.php,*.twig</mask>
+    <mask>*.spec.js</mask>
   </component>
 </application>
