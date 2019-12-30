@@ -10,6 +10,7 @@
       <mapping pattern="top25Tabs" type="PLAIN_TEXT" />
       <mapping pattern=".profile2" type="PLAIN_TEXT" />
       <mapping pattern=".profile1" type="PLAIN_TEXT" />
+      <mapping pattern="cleanUpSandboxServer" type="PLAIN_TEXT" />
       <mapping pattern="t2" type="PLAIN_TEXT" />
       <mapping pattern="t1" type="PLAIN_TEXT" />
       <mapping pattern="clear-cache" type="PLAIN_TEXT" />
