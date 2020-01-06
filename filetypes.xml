@@ -6,7 +6,6 @@
       <mapping ext="ttf" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="BUILD_ID" type="PLAIN_TEXT" />
-      <mapping pattern="prepareCodeForSandbox" type="PLAIN_TEXT" />
       <mapping pattern="top25Tabs" type="PLAIN_TEXT" />
       <mapping pattern=".profile2" type="PLAIN_TEXT" />
       <mapping pattern=".profile1" type="PLAIN_TEXT" />
@@ -17,6 +16,7 @@
       <mapping pattern="crawler-api-upgrades" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="prepareSandboxServer" type="PLAIN_TEXT" />
+      <mapping pattern="prepareCodeForSandbox" type="PLAIN_TEXT" />
       <mapping pattern="f1" type="PLAIN_TEXT" />
       <mapping pattern="gen-db-doc" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
