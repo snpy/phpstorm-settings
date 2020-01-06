@@ -18,6 +18,7 @@
       <mapping pattern="prepareSandboxServer" type="PLAIN_TEXT" />
       <mapping pattern="prepareCodeForSandbox" type="PLAIN_TEXT" />
       <mapping pattern="f1" type="PLAIN_TEXT" />
+      <mapping pattern=".syncthing.vagrantfile.tmp" type="PLAIN_TEXT" />
       <mapping pattern="gen-db-doc" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
       <mapping ext="webmanifest" type="PLAIN_TEXT" />
