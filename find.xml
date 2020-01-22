@@ -1,15 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Command.php</mask>
+    <option name="FILE_MASK" value="*.css" />
     <mask>bootstrap*</mask>
     <mask>*tsx</mask>
     <mask>*.</mask>
@@ -28,7 +24,6 @@
     <mask>*.tsx</mask>
     <mask>*.tsx,*.ts</mask>
     <mask>*.tsx,*.ts,*.js</mask>
-    <mask>*.less</mask>
     <mask>*.twig</mask>
     <mask>*Controller.php</mask>
     <mask>: 2</mask>
@@ -39,5 +34,7 @@
     <mask>*.ts</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.less</mask>
+    <mask>*.css</mask>
   </component>
 </application>
