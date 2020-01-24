@@ -4,29 +4,29 @@
     <extensionMap>
       <mapping pattern="*.js.twig" type="JavaScript" />
       <mapping ext="ttf" type="Native" />
-      <mapping pattern="t2" type="PLAIN_TEXT" />
-      <mapping pattern="t1" type="PLAIN_TEXT" />
-      <mapping pattern="prepareCodeForSandbox" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="BUILD_ID" type="PLAIN_TEXT" />
       <mapping pattern="top25Tabs" type="PLAIN_TEXT" />
       <mapping pattern=".profile2" type="PLAIN_TEXT" />
       <mapping pattern=".profile1" type="PLAIN_TEXT" />
-      <mapping pattern="gen-db-doc" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="prepareSandboxServer" type="PLAIN_TEXT" />
       <mapping pattern="cleanUpSandboxServer" type="PLAIN_TEXT" />
+      <mapping pattern="t2" type="PLAIN_TEXT" />
+      <mapping pattern="t1" type="PLAIN_TEXT" />
+      <mapping pattern="clear-cache" type="PLAIN_TEXT" />
+      <mapping pattern="gen-db-doc" type="PLAIN_TEXT" />
       <mapping pattern="crawler-api-upgrades" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="prepareSandboxServer" type="PLAIN_TEXT" />
+      <mapping pattern="prepareCodeForSandbox" type="PLAIN_TEXT" />
       <mapping pattern="f1" type="PLAIN_TEXT" />
-      <mapping pattern="BUILD_ID" type="PLAIN_TEXT" />
       <mapping pattern=".syncthing.vagrantfile.tmp" type="PLAIN_TEXT" />
-      <mapping pattern="clear-cache" type="PLAIN_TEXT" />
+      <mapping ext="message" type="PLAIN_TEXT" />
       <mapping ext="webmanifest" type="PLAIN_TEXT" />
-      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="groovy" type="PLAIN_TEXT" />
       <mapping ext="sync-conflict-20191011-071629-mfosw5j" type="PLAIN_TEXT" />
       <mapping ext="yml~" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping ext="message" type="PLAIN_TEXT" />
       <mapping pattern="inlineDelete" type="Twig" />
       <mapping pattern="isMovable" type="TypeScript" />
       <mapping pattern="*.yml.dist" type="YAML" />
