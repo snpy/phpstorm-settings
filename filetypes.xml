@@ -13,13 +13,13 @@
       <mapping pattern="t2" type="PLAIN_TEXT" />
       <mapping pattern="t1" type="PLAIN_TEXT" />
       <mapping pattern="clear-cache" type="PLAIN_TEXT" />
-      <mapping pattern="gen-db-doc" type="PLAIN_TEXT" />
       <mapping pattern="crawler-api-upgrades" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="prepareSandboxServer" type="PLAIN_TEXT" />
       <mapping pattern="prepareCodeForSandbox" type="PLAIN_TEXT" />
       <mapping pattern="f1" type="PLAIN_TEXT" />
       <mapping pattern=".syncthing.vagrantfile.tmp" type="PLAIN_TEXT" />
+      <mapping pattern="gen-db-doc" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
       <mapping ext="webmanifest" type="PLAIN_TEXT" />
       <mapping ext="groovy" type="PLAIN_TEXT" />
