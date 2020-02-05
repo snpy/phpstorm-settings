@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>bootstrap*</mask>
     <mask>*tsx</mask>
     <mask>*Test.php</mask>
@@ -30,8 +31,8 @@
     <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>*.css</mask>
-    <mask>*.twig</mask>
     <mask>*.</mask>
     <mask>*.yml</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
