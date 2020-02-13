@@ -4,16 +4,17 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>bootstrap*</mask>
+    <option name="FILE_MASK" value="*.ts, *.tsx, *.js" />
     <mask>*tsx</mask>
     <mask>*Test.php</mask>
     <mask>*.xml</mask>
     <mask>*en_IN*</mask>
     <mask>*Datatable.php</mask>
-    <mask>*.ts, *.tsx</mask>
     <mask>*.en_US.xlf</mask>
     <mask>*.en_US.*</mask>
     <mask>*.md</mask>
@@ -37,5 +38,7 @@
     <mask>*.</mask>
     <mask>*.yml</mask>
     <mask>*.twig</mask>
+    <mask>*.ts, *.tsx</mask>
+    <mask>*.ts, *.tsx, *.js</mask>
   </component>
 </application>
