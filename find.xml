@@ -34,7 +34,6 @@
     <mask>*.tsx, *.ts</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
-    <mask>*.less</mask>
     <mask>*.css</mask>
     <mask>*.</mask>
     <mask>*.twig</mask>
@@ -43,5 +42,6 @@
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.twig, *.php, *.ts, *.js, *.tsx</mask>
+    <mask>*.less</mask>
   </component>
 </application>
