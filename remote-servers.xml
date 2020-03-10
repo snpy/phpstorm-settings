@@ -7,5 +7,12 @@
         <option name="machine" value="gg" />
       </configuration>
     </remote-server>
+    <remote-server name="SO" type="docker">
+      <configuration>
+        <option name="apiUrl" value="https://192.168.99.100:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/so" />
+        <option name="machine" value="so" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
