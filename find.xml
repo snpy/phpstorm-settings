@@ -11,6 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Controller.php" />
     <mask>*.xml</mask>
     <mask>*en_IN*</mask>
     <mask>*Datatable.php</mask>
@@ -23,7 +24,6 @@
     <mask>*.tsx</mask>
     <mask>*.tsx,*.ts</mask>
     <mask>*.tsx,*.ts,*.js</mask>
-    <mask>*Controller.php</mask>
     <mask>: 2</mask>
     <mask>*.php,*.twig</mask>
     <mask>*.spec.js</mask>
@@ -41,5 +41,6 @@
     <mask>*.less</mask>
     <mask>*.js, *.ts</mask>
     <mask>*.php</mask>
+    <mask>*Controller.php</mask>
   </component>
 </application>
