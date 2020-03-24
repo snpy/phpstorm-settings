@@ -26,7 +26,6 @@
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.</mask>
-    <mask>*.twig</mask>
     <mask>*.ts, *.tsx, *.js</mask>
     <mask>*.yml</mask>
     <mask>*.twig, *.php, *.ts, *.js, *.tsx</mask>
@@ -37,5 +36,6 @@
     <mask>*Controller.php</mask>
     <mask>*.php</mask>
     <mask>merchants.yml</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
