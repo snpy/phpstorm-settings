@@ -1,0 +1,9 @@
+<application>
+  <component name="DuplicatesDetector">
+    <entry key="PHP">
+      <language>
+        <option name="enabledIndex" value="false" />
+      </language>
+    </entry>
+  </component>
+</application>
