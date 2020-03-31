@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*Datatable.php</mask>
     <mask>*.en_US.xlf</mask>
     <mask>*.en_US.*</mask>
@@ -12,7 +13,6 @@
     <mask>*Repository.php</mask>
     <mask>*.ts*</mask>
     <mask>*.ts,*.js,*.twig</mask>
-    <mask>*.tsx</mask>
     <mask>*.tsx,*.ts</mask>
     <mask>*.tsx,*.ts,*.js</mask>
     <mask>: 2</mask>
@@ -35,5 +35,6 @@
     <mask>merchants.yml</mask>
     <mask>*.twig</mask>
     <mask>*.php</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
