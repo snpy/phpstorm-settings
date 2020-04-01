@@ -15,7 +15,6 @@
     <mask>*.tsx,*.ts,*.js</mask>
     <mask>: 2</mask>
     <mask>*.php,*.twig</mask>
-    <mask>*.spec.js</mask>
     <mask>*.en.xlf</mask>
     <mask>*.tsx, *.ts</mask>
     <mask>*.ts</mask>
@@ -33,6 +32,7 @@
     <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.tsx</mask>
+    <mask>*.spec.js</mask>
     <mask>*.yml</mask>
   </component>
 </application>
