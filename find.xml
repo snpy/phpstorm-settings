@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*Datatable.php</mask>
     <mask>*.en_US.xlf</mask>
     <mask>*.en_US.*</mask>
@@ -22,7 +23,6 @@
     <mask>*.css</mask>
     <mask>*.</mask>
     <mask>*.ts, *.tsx, *.js</mask>
-    <mask>*.yml</mask>
     <mask>*.twig, *.php, *.ts, *.js, *.tsx</mask>
     <mask>*.less</mask>
     <mask>*.js, *.ts</mask>
@@ -33,5 +33,6 @@
     <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.tsx</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
