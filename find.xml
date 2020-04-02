@@ -16,7 +16,6 @@
     <mask>*.php,*.twig</mask>
     <mask>*.en.xlf</mask>
     <mask>*.tsx, *.ts</mask>
-    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.</mask>
     <mask>*.ts, *.tsx, *.js</mask>
@@ -33,5 +32,6 @@
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.ts</mask>
+    <mask>*.js</mask>
   </component>
 </application>
