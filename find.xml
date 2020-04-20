@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.en_US.xlf</mask>
+    <option name="FILE_MASK" value="entries.yml" />
     <mask>*.en_US.*</mask>
     <mask>*.md</mask>
     <mask>*Repository.php</mask>
@@ -33,11 +33,12 @@
     <mask>*.twig</mask>
     <mask>*.tsx</mask>
     <mask>*.spec.js</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.html.twig</mask>
     <mask>*.less</mask>
+    <mask>*.yml</mask>
+    <mask>entries.yml</mask>
   </component>
 </application>
