@@ -35,7 +35,7 @@
     <mask>*.js</mask>
     <mask>*.html.twig</mask>
     <mask>*.less</mask>
-    <mask>*.yml</mask>
     <mask>entries.yml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
