@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts, *.tsx" />
     <mask>*.md</mask>
     <mask>*Repository.php</mask>
     <mask>*.ts*</mask>
@@ -22,7 +23,6 @@
     <mask>*.ts, *.tsx, *.js</mask>
     <mask>*.twig, *.php, *.ts, *.js, *.tsx</mask>
     <mask>*.js, *.ts</mask>
-    <mask>*.ts, *.tsx</mask>
     <mask>*.ts, *.tsx, *.twig</mask>
     <mask>*Controller.php</mask>
     <mask>merchants.yml</mask>
@@ -37,5 +37,6 @@
     <mask>entries.yml</mask>
     <mask>*.yml</mask>
     <mask>*.twig, *.php, *</mask>
+    <mask>*.ts, *.tsx</mask>
   </component>
 </application>
