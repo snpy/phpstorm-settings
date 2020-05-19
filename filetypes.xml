@@ -15,6 +15,7 @@
       <mapping pattern="clear-cache" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="gen-db-doc" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="prepareSandboxServer" type="PLAIN_TEXT" />
       <mapping pattern="t1" type="PLAIN_TEXT" />
