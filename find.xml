@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.md</mask>
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*Repository.php</mask>
     <mask>*.ts*</mask>
     <mask>*.ts,*.js,*.twig</mask>
@@ -35,5 +35,6 @@
     <mask>*.yml</mask>
     <mask>*.twig, *.php, *</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
