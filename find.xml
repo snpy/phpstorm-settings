@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php, *.twig" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.ts,*.js,*.twig</mask>
     <mask>*.tsx,*.ts</mask>
     <mask>*.tsx,*.ts,*.js</mask>
@@ -30,11 +28,11 @@
     <mask>*.html.twig</mask>
     <mask>*.less</mask>
     <mask>entries.yml</mask>
-    <mask>*.yml</mask>
     <mask>*.twig, *.php, *</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>*.yaml</mask>
     <mask>*.yml, *.yaml</mask>
     <mask>*.php, *.twig</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
