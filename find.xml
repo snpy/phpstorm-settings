@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php, *.twig" />
     <mask>: 2</mask>
     <mask>*.php,*.twig</mask>
     <mask>*.en.xlf</mask>
@@ -32,12 +33,12 @@
     <mask>*.ts, *.tsx</mask>
     <mask>*.spec.js</mask>
     <mask>*.yml, *.yaml</mask>
-    <mask>*.php, *.twig</mask>
     <mask>Version*.php</mask>
     <mask>*.twig</mask>
     <mask>*.ts, *js</mask>
     <mask>*.ts, *js, *.tsx, *.jsx</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.php, *.twig</mask>
   </component>
 </application>
