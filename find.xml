@@ -9,6 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>: 2</mask>
     <mask>*.php,*.twig</mask>
     <mask>*.en.xlf</mask>
@@ -24,7 +25,6 @@
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*.html.twig</mask>
-    <mask>*.less</mask>
     <mask>entries.yml</mask>
     <mask>*.twig, *.php, *</mask>
     <mask>*.yaml</mask>
@@ -39,5 +39,6 @@
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.php, *.twig</mask>
+    <mask>*.less</mask>
   </component>
 </application>
