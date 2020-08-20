@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>: 2</mask>
+    <option name="FILE_MASK" value="*.en_PH.xlf" />
     <mask>*.php,*.twig</mask>
     <mask>*.en.xlf</mask>
     <mask>*.tsx, *.ts</mask>
@@ -37,5 +37,6 @@
     <mask>*.php</mask>
     <mask>*.php, *.twig</mask>
     <mask>*.less</mask>
+    <mask>*.en_PH.xlf</mask>
   </component>
 </application>
