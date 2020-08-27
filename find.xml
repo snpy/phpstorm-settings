@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.php,*.twig</mask>
+    <option name="FILE_MASK" value="*.en_US.xlf" />
     <mask>*.en.xlf</mask>
     <mask>*.tsx, *.ts</mask>
     <mask>*.css</mask>
@@ -33,5 +33,6 @@
     <mask>*.less</mask>
     <mask>*.en_PH.xlf</mask>
     <mask>*.tsx</mask>
+    <mask>*.en_US.xlf</mask>
   </component>
 </application>
