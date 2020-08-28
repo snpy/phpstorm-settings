@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Controller.php" />
     <mask>*.en.xlf</mask>
     <mask>*.tsx, *.ts</mask>
     <mask>*.css</mask>
@@ -13,7 +14,6 @@
     <mask>*.twig, *.php, *.ts, *.js, *.tsx</mask>
     <mask>*.js, *.ts</mask>
     <mask>*.ts, *.tsx, *.twig</mask>
-    <mask>*Controller.php</mask>
     <mask>merchants.yml</mask>
     <mask>*.ts</mask>
     <mask>*.html.twig</mask>
@@ -35,5 +35,6 @@
     <mask>*.tsx</mask>
     <mask>*.en_US.xlf</mask>
     <mask>*.yml</mask>
+    <mask>*Controller.php</mask>
   </component>
 </application>
