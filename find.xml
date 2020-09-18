@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.en.xlf</mask>
+    <option name="FILE_MASK" value="*Command.php" />
     <mask>*.tsx, *.ts</mask>
     <mask>*.css</mask>
     <mask>*.</mask>
@@ -33,5 +35,6 @@
     <mask>*.yml</mask>
     <mask>*.twig</mask>
     <mask>*.ts</mask>
+    <mask>*Command.php</mask>
   </component>
 </application>
