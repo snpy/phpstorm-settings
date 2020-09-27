@@ -17,7 +17,6 @@
     <mask>entries.yml</mask>
     <mask>*.twig, *.php, *</mask>
     <mask>*.yaml</mask>
-    <mask>*.js</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>*.spec.js</mask>
     <mask>*.yml, *.yaml</mask>
@@ -35,5 +34,6 @@
     <mask>*.twig</mask>
     <mask>*.ts</mask>
     <mask>*Command.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
