@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.tsx, *.ts</mask>
     <mask>*.css</mask>
     <mask>*.</mask>
     <mask>*.ts, *.tsx, *.js</mask>
@@ -33,5 +32,6 @@
     <mask>*.ts</mask>
     <mask>*Command.php</mask>
     <mask>*.js</mask>
+    <mask>*.js, *.ts, *.twig</mask>
   </component>
 </application>
