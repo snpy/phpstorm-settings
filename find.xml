@@ -7,7 +7,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
     <mask>*.</mask>
     <mask>*.ts, *.tsx, *.js</mask>
     <mask>*.twig, *.php, *.ts, *.js, *.tsx</mask>
@@ -26,7 +25,6 @@
     <mask>*.ts, *js, *.tsx, *.jsx</mask>
     <mask>*.php</mask>
     <mask>*.php, *.twig</mask>
-    <mask>*.less</mask>
     <mask>*.en_PH.xlf</mask>
     <mask>*.tsx</mask>
     <mask>*.en_US.xlf</mask>
@@ -37,5 +35,7 @@
     <mask>*.js</mask>
     <mask>*.js, *.ts, *.twig</mask>
     <mask>*.twig</mask>
+    <mask>*.spec.*</mask>
+    <mask>*.less</mask>
   </component>
 </application>
