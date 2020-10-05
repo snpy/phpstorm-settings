@@ -32,8 +32,8 @@
     <mask>*.js, *.ts, *.twig</mask>
     <mask>*.twig</mask>
     <mask>*.spec.*</mask>
-    <mask>*.less</mask>
     <mask>*Listener.php</mask>
     <mask>*.php</mask>
+    <mask>*.less</mask>
   </component>
 </application>
