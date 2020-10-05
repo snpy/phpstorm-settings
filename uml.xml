@@ -1,0 +1,10 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="categories">
+      <map>
+        <entry id="PHP" categories="Fields;Constants;Constructors;Methods" />
+        <entry id="QUERY_PLAN" categories="Attributes" />
+      </map>
+    </option>
+  </component>
+</application>
