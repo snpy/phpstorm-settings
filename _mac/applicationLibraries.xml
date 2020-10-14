@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/webpack" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="adsbygoogle" type="javaScript">
       <properties>
         <sourceFilesUrls>
