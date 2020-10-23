@@ -11,6 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.twig, *.php, *.ts, *.js, *.tsx</mask>
     <mask>*.js, *.ts</mask>
     <mask>*.ts, *.tsx, *.twig</mask>
@@ -38,8 +39,8 @@
     <mask>*.spec.*</mask>
     <mask>*Listener.php</mask>
     <mask>*.php</mask>
-    <mask>*.less</mask>
     <mask>*.yml</mask>
     <mask>*Datatable.php</mask>
+    <mask>*.less</mask>
   </component>
 </application>
