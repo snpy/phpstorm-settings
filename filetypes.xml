@@ -35,6 +35,7 @@
       <mapping pattern="isMovable" type="TypeScript" />
       <mapping pattern="*.yml.dist" type="YAML" />
       <mapping ext="neon" type="YAML" />
+      <removed_mapping pattern="*.css.twig" approved="true" type="CSS" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
