@@ -31,7 +31,7 @@
     <mask>*.php</mask>
     <mask>*.yml</mask>
     <mask>*Datatable.php</mask>
-    <mask>*.less</mask>
     <mask>*.js</mask>
+    <mask>*.less</mask>
   </component>
 </application>
