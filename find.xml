@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.js, *.ts</mask>
+    <option name="FILE_MASK" value="*.js,*.ts,*.js.twig" />
     <mask>*.ts, *.tsx, *.twig</mask>
     <mask>merchants.yml</mask>
     <mask>*.html.twig</mask>
@@ -35,5 +35,6 @@
     <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>*Config*</mask>
+    <mask>*.js,*.ts,*.js.twig</mask>
   </component>
 </application>
