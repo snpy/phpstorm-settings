@@ -13,6 +13,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*.ts, *.tsx, *.twig</mask>
     <mask>merchants.yml</mask>
     <mask>*.html.twig</mask>
@@ -33,7 +34,6 @@
     <mask>*.ts</mask>
     <mask>*Command.php</mask>
     <mask>*.js, *.ts, *.twig</mask>
-    <mask>*.twig</mask>
     <mask>*.spec.*</mask>
     <mask>*Listener.php</mask>
     <mask>*.php</mask>
@@ -43,5 +43,6 @@
     <mask>*.less</mask>
     <mask>*Config*</mask>
     <mask>*.js,*.ts,*.js.twig</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
