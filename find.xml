@@ -11,6 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.ts, *.tsx, *.twig</mask>
     <mask>merchants.yml</mask>
     <mask>*.html.twig</mask>
@@ -28,7 +29,6 @@
     <mask>*.tsx</mask>
     <mask>*.en_US.xlf</mask>
     <mask>*Controller.php</mask>
-    <mask>*.ts</mask>
     <mask>*Command.php</mask>
     <mask>*.js, *.ts, *.twig</mask>
     <mask>*.spec.*</mask>
@@ -41,5 +41,6 @@
     <mask>*Config*</mask>
     <mask>*.js,*.ts,*.js.twig</mask>
     <mask>*.twig</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
