@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*.ts, *.tsx, *.twig</mask>
     <mask>merchants.yml</mask>
     <mask>*.html.twig</mask>
@@ -31,7 +34,7 @@
     <mask>*.less</mask>
     <mask>*Config*</mask>
     <mask>*.js,*.ts,*.js.twig</mask>
-    <mask>*.twig</mask>
     <mask>*.ts</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
