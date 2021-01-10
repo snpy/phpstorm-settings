@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>merchants.yml</mask>
+    <option name="FILE_MASK" value="*.xlf" />
     <mask>*.html.twig</mask>
     <mask>entries.yml</mask>
     <mask>*.twig, *.php, *</mask>
@@ -32,8 +32,9 @@
     <mask>*Config*</mask>
     <mask>*.js,*.ts,*.js.twig</mask>
     <mask>*.ts</mask>
-    <mask>*.twig</mask>
     <mask>*Controller.php</mask>
     <mask>*.sh</mask>
+    <mask>*.twig</mask>
+    <mask>*.xlf</mask>
   </component>
 </application>
