@@ -16,6 +16,7 @@
       <mapping pattern="f1" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".ecrc" type="PLAIN_TEXT" />
       <mapping pattern="gen-db-doc" type="PLAIN_TEXT" />
       <mapping pattern="clear-cache" type="PLAIN_TEXT" />
       <mapping pattern="cleanUpSandboxServer" type="PLAIN_TEXT" />
