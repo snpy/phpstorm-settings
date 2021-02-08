@@ -1,14 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.spec.js</mask>
     <mask>*.yml, *.yaml</mask>
     <mask>Version*.php</mask>
@@ -22,7 +21,6 @@
     <mask>*.js, *.ts, *.twig</mask>
     <mask>*.spec.*</mask>
     <mask>*Listener.php</mask>
-    <mask>*.yml</mask>
     <mask>*Datatable.php</mask>
     <mask>*.js</mask>
     <mask>*.less</mask>
@@ -39,5 +37,6 @@
     <mask>*.js, *.ts</mask>
     <mask>*.jsx, *.tsx</mask>
     <mask>*.js, *.ts, *.jsx, *.tsx</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
