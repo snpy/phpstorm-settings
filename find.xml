@@ -15,7 +15,6 @@
     <mask>*.spec.*</mask>
     <mask>*Listener.php</mask>
     <mask>*.js</mask>
-    <mask>*.less</mask>
     <mask>*Config*</mask>
     <mask>*.js,*.ts,*.js.twig</mask>
     <mask>*.ts</mask>
@@ -35,5 +34,6 @@
     <mask>*-sprite.svg</mask>
     <mask>*.ts, *.tsx, *.js, *.jsx</mask>
     <mask>*.twig</mask>
+    <mask>*.less</mask>
   </component>
 </application>
