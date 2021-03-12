@@ -22,7 +22,6 @@
     <mask>*.sh</mask>
     <mask>*.xlf</mask>
     <mask>*.js,*.ts</mask>
-    <mask>*.php</mask>
     <mask>parameters-*.yml</mask>
     <mask>*.js, *.ts</mask>
     <mask>*.jsx, *.tsx</mask>
@@ -35,5 +34,6 @@
     <mask>*.ts, *.tsx, *.js, *.jsx</mask>
     <mask>*.twig</mask>
     <mask>*.less</mask>
+    <mask>*.php</mask>
   </component>
 </application>
