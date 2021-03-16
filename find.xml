@@ -13,7 +13,6 @@
     <mask>*Listener.php</mask>
     <mask>*Config*</mask>
     <mask>*.js,*.ts,*.js.twig</mask>
-    <mask>*.ts</mask>
     <mask>*Controller.php</mask>
     <mask>*.sh</mask>
     <mask>*.xlf</mask>
@@ -33,5 +32,6 @@
     <mask>*.js</mask>
     <mask>light*.spec.*</mask>
     <mask>*.twig</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
