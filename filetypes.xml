@@ -10,6 +10,7 @@
       <mapping pattern="t1" type="PLAIN_TEXT" />
       <mapping pattern="prepareSandboxServer" type="PLAIN_TEXT" />
       <mapping pattern="crawler-api-upgrades" type="PLAIN_TEXT" />
+      <mapping pattern=".lan.rsync" type="PLAIN_TEXT" />
       <mapping pattern="BUILD_ID" type="PLAIN_TEXT" />
       <mapping pattern="t2" type="PLAIN_TEXT" />
       <mapping pattern="top25Tabs" type="PLAIN_TEXT" />
