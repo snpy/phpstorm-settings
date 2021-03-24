@@ -39,6 +39,7 @@
       <mapping pattern="*.yml.dist" type="YAML" />
       <mapping ext="neon" type="YAML" />
       <removed_mapping pattern="*.css.twig" approved="true" type="CSS" />
+      <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="xlf" approved="true" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
