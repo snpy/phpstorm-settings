@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="https://e-sprawozdania.mf.gov.pl/documentation/xsd/2020/11/18/fileMetrics.xsd" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2020.3/extResources/8fba63b3_fileMetrics.xsd" />
+    <resource url="https://e-sprawozdania.mf.gov.pl/documentation/xsd/2020/11/18/types/metricsTypes.xsd" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2020.3/extResources/ebc71456_metricsTypes.xsd" />
+  </component>
+</application>
