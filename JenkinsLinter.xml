@@ -1,0 +1,5 @@
+<application>
+  <component name="JenkinsLinterState">
+    <option name="jenkinsUrl" value="http://ci.gg.lan:8080/" />
+  </component>
+</application>
