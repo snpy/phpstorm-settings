@@ -15,6 +15,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="jipt" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.crowdin.com_jipt_jipt.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.crowdin.com_jipt_jipt.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="Puppet modules">
       <CLASSES>
         <root url="file://$APPLICATION_PLUGINS_DIR$/puppet/lib/stubs" />
