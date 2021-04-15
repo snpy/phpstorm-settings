@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.php, *.twig</mask>
+    <option name="FILE_MASK" value="*.js, *.jsx, *.ts, *.tsx" />
     <mask>*.en_PH.xlf</mask>
     <mask>*.tsx</mask>
     <mask>*.en_US.xlf</mask>
@@ -37,5 +37,6 @@
     <mask>*.less</mask>
     <mask>*.php</mask>
     <mask>*.twig</mask>
+    <mask>*.js, *.jsx, *.ts, *.tsx</mask>
   </component>
 </application>
