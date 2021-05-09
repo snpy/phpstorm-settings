@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="vyarnintegritycheck" type="AUTO_DETECTED" />
       <mapping pattern="vphplintcheck" type="AUTO_DETECTED" />
+      <mapping pattern="sed" type="AUTO_DETECTED" />
       <mapping pattern="*.js.twig" type="JavaScript" />
       <mapping ext="ttf" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
