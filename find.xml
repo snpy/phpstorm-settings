@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Datatable.php" />
     <mask>*.en_PH.xlf</mask>
     <mask>*.tsx</mask>
     <mask>*.en_US.xlf</mask>
@@ -26,7 +27,6 @@
     <mask>*.js, *.ts, *.jsx, *.tsx</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
-    <mask>*Datatable.php</mask>
     <mask>*.svg</mask>
     <mask>*-sprite.svg</mask>
     <mask>*.ts, *.tsx, *.js, *.jsx</mask>
@@ -37,5 +37,6 @@
     <mask>*.php</mask>
     <mask>*.twig</mask>
     <mask>*.js, *.jsx, *.ts, *.tsx</mask>
+    <mask>*Datatable.php</mask>
   </component>
 </application>
