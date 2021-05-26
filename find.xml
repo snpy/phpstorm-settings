@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.en_PH.xlf</mask>
     <mask>*.tsx</mask>
     <mask>*.en_US.xlf</mask>
@@ -29,11 +30,11 @@
     <mask>*.ts, *.tsx, *.js, *.jsx</mask>
     <mask>*.js</mask>
     <mask>light*.spec.*</mask>
-    <mask>*.ts</mask>
     <mask>*.less</mask>
     <mask>*.php</mask>
     <mask>*.twig</mask>
     <mask>*.js, *.jsx, *.ts, *.tsx</mask>
     <mask>*Datatable.php</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
