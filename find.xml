@@ -4,9 +4,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.en_PH.xlf</mask>
     <mask>*.tsx</mask>
     <mask>*.en_US.xlf</mask>
@@ -29,7 +32,6 @@
     <mask>*.svg</mask>
     <mask>*-sprite.svg</mask>
     <mask>*.ts, *.tsx, *.js, *.jsx</mask>
-    <mask>*.js</mask>
     <mask>light*.spec.*</mask>
     <mask>*.less</mask>
     <mask>*.php</mask>
@@ -37,5 +39,6 @@
     <mask>*.js, *.jsx, *.ts, *.tsx</mask>
     <mask>*Datatable.php</mask>
     <mask>*.ts</mask>
+    <mask>*.js</mask>
   </component>
 </application>
