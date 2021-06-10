@@ -25,10 +25,10 @@
       <mapping pattern="clear-cache" type="PLAIN_TEXT" />
       <mapping pattern="cleanUpSandboxServer" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping pattern=".profile1" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".profile2" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern=".profile1" type="PLAIN_TEXT" />
       <mapping ext="groovy" type="PLAIN_TEXT" />
       <mapping ext="webmanifest" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
