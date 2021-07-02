@@ -5,7 +5,6 @@
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="*.ts" />
     <mask>*.en_PH.xlf</mask>
     <mask>*.tsx</mask>
     <mask>*.en_US.xlf</mask>
