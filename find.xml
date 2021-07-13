@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.en_PH.xlf</mask>
     <mask>*.tsx</mask>
     <mask>*.en_US.xlf</mask>
@@ -22,7 +23,6 @@
     <mask>*.jsx, *.tsx</mask>
     <mask>*.js, *.ts, *.jsx, *.tsx</mask>
     <mask>*.yml</mask>
-    <mask>*.xml</mask>
     <mask>*.svg</mask>
     <mask>*-sprite.svg</mask>
     <mask>*.ts, *.tsx, *.js, *.jsx</mask>
@@ -35,5 +35,6 @@
     <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
