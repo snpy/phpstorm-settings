@@ -1,34 +1,34 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
-      <mapping pattern="vyarnintegritycheck" type="AUTO_DETECTED" />
       <mapping pattern="vphplintcheck" type="AUTO_DETECTED" />
       <mapping pattern="sed" type="AUTO_DETECTED" />
+      <mapping pattern="vyarnintegritycheck" type="AUTO_DETECTED" />
       <mapping pattern="*.js.twig" type="JavaScript" />
       <mapping ext="ttf" type="Native" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="t1" type="PLAIN_TEXT" />
-      <mapping pattern="prepareSandboxServer" type="PLAIN_TEXT" />
-      <mapping pattern="crawler-api-upgrades" type="PLAIN_TEXT" />
-      <mapping pattern=".lan.rsync" type="PLAIN_TEXT" />
-      <mapping pattern="BUILD_ID" type="PLAIN_TEXT" />
-      <mapping pattern="t2" type="PLAIN_TEXT" />
-      <mapping pattern="top25Tabs" type="PLAIN_TEXT" />
-      <mapping pattern="prepareCodeForSandbox" type="PLAIN_TEXT" />
-      <mapping pattern=".syncthing.vagrantfile.tmp" type="PLAIN_TEXT" />
       <mapping pattern="f1" type="PLAIN_TEXT" />
-      <mapping pattern="console" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".ecrc" type="PLAIN_TEXT" />
-      <mapping pattern="gen-db-doc" type="PLAIN_TEXT" />
-      <mapping pattern="clear-cache" type="PLAIN_TEXT" />
-      <mapping pattern="cleanUpSandboxServer" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dist" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="prepareCodeForSandbox" type="PLAIN_TEXT" />
+      <mapping pattern="clear-cache" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="top25Tabs" type="PLAIN_TEXT" />
+      <mapping pattern="crawler-api-upgrades" type="PLAIN_TEXT" />
+      <mapping pattern="t1" type="PLAIN_TEXT" />
+      <mapping pattern="t2" type="PLAIN_TEXT" />
+      <mapping pattern=".lan.rsync" type="PLAIN_TEXT" />
+      <mapping pattern=".ecrc" type="PLAIN_TEXT" />
+      <mapping pattern="prepareSandboxServer" type="PLAIN_TEXT" />
+      <mapping pattern="BUILD_ID" type="PLAIN_TEXT" />
+      <mapping pattern=".syncthing.vagrantfile.tmp" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".profile1" type="PLAIN_TEXT" />
       <mapping pattern=".profile2" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dist" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="cleanUpSandboxServer" type="PLAIN_TEXT" />
+      <mapping pattern="console" type="PLAIN_TEXT" />
+      <mapping pattern="gen-db-doc" type="PLAIN_TEXT" />
       <mapping ext="groovy" type="PLAIN_TEXT" />
       <mapping ext="webmanifest" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
