@@ -7,7 +7,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.en_PH.xlf</mask>
+    <option name="FILE_MASK" value="*link*.php" />
     <mask>*.tsx</mask>
     <mask>*.en_US.xlf</mask>
     <mask>*Command.php</mask>
@@ -37,5 +37,6 @@
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*link*.php</mask>
   </component>
 </application>
