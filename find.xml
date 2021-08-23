@@ -31,7 +31,6 @@
     <mask>*.js, *.jsx, *.ts, *.tsx</mask>
     <mask>*Datatable.php</mask>
     <mask>*Listener.php</mask>
-    <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
@@ -39,5 +38,6 @@
     <mask>*.ro.yml</mask>
     <mask>*.twig</mask>
     <mask>*Generator.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
