@@ -2,6 +2,7 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://schema.phpunit.de/4.8/phpunit.xsd" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2021.2/extResources/e374a285_phpunit.xsd" />
     <resource url="http://schema.phpunit.de/6.5/phpunit.xsd" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2021.1/extResources/cba26384_phpunit.xsd" />
+    <resource url="http://schema.phpunit.de/9.3/phpunit.xsd" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2021.2/extResources/fc2e9545_phpunit.xsd" />
     <resource url="https://e-sprawozdania.mf.gov.pl/documentation/xsd/2020/11/18/fileMetrics.xsd" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2020.3/extResources/8fba63b3_fileMetrics.xsd" />
     <resource url="https://e-sprawozdania.mf.gov.pl/documentation/xsd/2020/11/18/types/metricsTypes.xsd" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2020.3/extResources/ebc71456_metricsTypes.xsd" />
   </component>
