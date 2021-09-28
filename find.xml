@@ -11,7 +11,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Config*</mask>
+    <option name="FILE_MASK" value="*.ro_RO*" />
     <mask>*.js,*.ts,*.js.twig</mask>
     <mask>*Controller.php</mask>
     <mask>*.sh</mask>
@@ -41,5 +41,6 @@
     <mask>*Repository.php</mask>
     <mask>*.php,*.twig</mask>
     <mask>*.ts</mask>
+    <mask>*.ro_RO*</mask>
   </component>
 </application>
