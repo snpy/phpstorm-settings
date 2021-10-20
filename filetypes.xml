@@ -31,6 +31,7 @@
       <mapping pattern="gen-db-doc" type="PLAIN_TEXT" />
       <mapping ext="groovy" type="PLAIN_TEXT" />
       <mapping ext="webmanifest" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="sync-conflict-20191011-071629-mfosw5j" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
